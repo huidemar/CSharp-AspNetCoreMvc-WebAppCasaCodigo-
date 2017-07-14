@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Carrinho";
+}
+<h3>Meu Carrinho</h3>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <div class="row">
+            <div class="col-md-6">Item</div>
+            <div class="col-md-2">
+                <span class="pull-right">Preço Unitário</span>
+            </div>
+            <div class="col-md-2">
+                <span class="pull-right">Quantidade</span>
+            </div>
+            <div class="col-md-2">
+                <span class="pull-right">SubTotal</span>
+            </div>
+        </div>
+    </div>
+    
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-3">
+                <img src="~/images/produtos/small_4.jpg" />
+            </div>
+            <div class="col-md-3">Rest</div>
+            <div class="col-md-2">
+                <span class="pull-right">R$70,00</span>
+            </div>
+            <div class="col-md-2">
+                <span class="pull-right">2</span>
+            </div>
+            <div class="col-md-2">
+                <span class="pull-right">R$140,00</span>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-3">
+                <img src="~/images/produtos/small_5.jpg" />
+            </div>
+            <div class="col-md-3">Designers Patterns</div>
+            <div class="col-md-2">
+                <span class="pull-right">R$70,00</span>
+            </div>
+            <div class="col-md-2">
+                <span class="pull-right">2</span>
+            </div>
+            <div class="col-md-2">
+                <span class="pull-right">R$140,00</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="panel-footer">
+        <div class="row">
+            <div class="col-md-10">
+                <span class="pull-left">Total</span>
+            </div>
+            <div class="col-md-2">
+                <span class="pull-right">R$140,00</span>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <a asp-controller="pedido"
+           asp-action="resumo"
+           class="btn btn-success pull-right">Pedido</a>
+    </div>
+</div>
