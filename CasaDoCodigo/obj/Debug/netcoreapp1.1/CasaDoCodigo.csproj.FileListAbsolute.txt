@@ -7,3 +7,12 @@ C:\projetos\c#\AspNetCoreMVC\WebAppCasaDoCodigo\CasaDoCodigo\CasaDoCodigo\obj\De
 C:\projetos\c#\AspNetCoreMVC\WebAppCasaDoCodigo\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp1.1\CasaDoCodigo.AssemblyInfo.cs
 C:\projetos\c#\AspNetCoreMVC\WebAppCasaDoCodigo\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp1.1\CasaDoCodigo.dll
 C:\projetos\c#\AspNetCoreMVC\WebAppCasaDoCodigo\CasaDoCodigo\CasaDoCodigo\obj\Debug\netcoreapp1.1\CasaDoCodigo.pdb
+C:\projetos\c#\AspNetCoreMVC\CSharp-AspNetCoreMvc-WebAppCasaCodigo-\CasaDoCodigo\bin\Debug\netcoreapp1.1\CasaDoCodigo.deps.json
+C:\projetos\c#\AspNetCoreMVC\CSharp-AspNetCoreMvc-WebAppCasaCodigo-\CasaDoCodigo\bin\Debug\netcoreapp1.1\CasaDoCodigo.runtimeconfig.json
+C:\projetos\c#\AspNetCoreMVC\CSharp-AspNetCoreMvc-WebAppCasaCodigo-\CasaDoCodigo\bin\Debug\netcoreapp1.1\CasaDoCodigo.runtimeconfig.dev.json
+C:\projetos\c#\AspNetCoreMVC\CSharp-AspNetCoreMvc-WebAppCasaCodigo-\CasaDoCodigo\bin\Debug\netcoreapp1.1\CasaDoCodigo.dll
+C:\projetos\c#\AspNetCoreMVC\CSharp-AspNetCoreMvc-WebAppCasaCodigo-\CasaDoCodigo\bin\Debug\netcoreapp1.1\CasaDoCodigo.pdb
+C:\projetos\c#\AspNetCoreMVC\CSharp-AspNetCoreMvc-WebAppCasaCodigo-\CasaDoCodigo\obj\Debug\netcoreapp1.1\CasaDoCodigo.csprojResolveAssemblyReference.cache
+C:\projetos\c#\AspNetCoreMVC\CSharp-AspNetCoreMvc-WebAppCasaCodigo-\CasaDoCodigo\obj\Debug\netcoreapp1.1\CasaDoCodigo.AssemblyInfo.cs
+C:\projetos\c#\AspNetCoreMVC\CSharp-AspNetCoreMvc-WebAppCasaCodigo-\CasaDoCodigo\obj\Debug\netcoreapp1.1\CasaDoCodigo.dll
+C:\projetos\c#\AspNetCoreMVC\CSharp-AspNetCoreMvc-WebAppCasaCodigo-\CasaDoCodigo\obj\Debug\netcoreapp1.1\CasaDoCodigo.pdb

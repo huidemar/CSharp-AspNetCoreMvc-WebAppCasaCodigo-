@@ -9775,10 +9775,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\c#\\AspNetCoreMVC\\WebAppCasaDoCodigo\\CasaDoCodigo\\CasaDoCodigo\\CasaDoCodigo.csproj",
+      "projectUniqueName": "C:\\projetos\\c#\\AspNetCoreMVC\\CSharp-AspNetCoreMvc-WebAppCasaCodigo-\\CasaDoCodigo\\CasaDoCodigo.csproj",
       "projectName": "CasaDoCodigo",
-      "projectPath": "C:\\projetos\\c#\\AspNetCoreMVC\\WebAppCasaDoCodigo\\CasaDoCodigo\\CasaDoCodigo\\CasaDoCodigo.csproj",
-      "outputPath": "C:\\projetos\\c#\\AspNetCoreMVC\\WebAppCasaDoCodigo\\CasaDoCodigo\\CasaDoCodigo\\obj\\",
+      "projectPath": "C:\\projetos\\c#\\AspNetCoreMVC\\CSharp-AspNetCoreMvc-WebAppCasaCodigo-\\CasaDoCodigo\\CasaDoCodigo.csproj",
+      "outputPath": "C:\\projetos\\c#\\AspNetCoreMVC\\CSharp-AspNetCoreMvc-WebAppCasaCodigo-\\CasaDoCodigo\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
